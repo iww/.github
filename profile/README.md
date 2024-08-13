@@ -13,7 +13,7 @@ Want to get involved with IWW Tech? :computer:
 ## [:fox_face: GitLab](https://gitlab.com/iww)
 ## [:globe_with_meridians: IWW.org](https://iww.org)
 ## [:newspaper_roll: Industrial Worker](https://industrialworker.org)
-## [:bird: X](https://x.com/iww)
+## [:bird: 𝕏](https://x.com/iww)
 ## [:camera_flash: Instagram](https://instagram.com/industrialworkersoftheworld)
 ## [🇫Facebook](https://facebook.com/iww.org)
 ## [:fireworks: GIPHY](https://giphy.com/iww)
